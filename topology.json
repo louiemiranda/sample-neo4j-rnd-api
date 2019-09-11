@@ -1,7 +1,17 @@
 {
-  "Topology": {
-    "1": "Framework",
-    "2": "IBM Cloud",
-    "3": "Customer Network"
+    "Topology": {
+      "name": "DXC Framework"
+    }
   }
-}
+
+  {
+    "Topology": {
+      "name": "IBM Cloud"
+    }
+  }
+
+  {
+    "Topology": {
+      "name": "Customer Network"
+    }
+  }
